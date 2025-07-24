@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color:black;
+}
+#in{
+    margin-left: 42%;
+    font-size: 20px;
+}
+body{
+    background-image: url('https://media.istockphoto.com/id/1007768414/photo/blue-sky-with-bright-sun-and-clouds.jpg?s=612x612&w=0&k=20&c=MGd2-v42lNF7Ie6TtsYoKnohdCfOPFSPQt5XOz4uOy4=');
+    background-position: center;
+    background-size: 135%;
+    background-repeat: no-repeat;
+}
+.hello{
+        text-align:center;
+        background-color: gray;
+        width: 30%;
+        margin-left: 40%;
+    }
+  
